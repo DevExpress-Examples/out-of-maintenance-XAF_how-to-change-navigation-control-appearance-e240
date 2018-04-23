@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="CustomizeNavigationControl" Logo="ExpressAppLogo">
+  <NavigationItems>
+    <Items>
+      <Item Id="Default" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="@001bf0fd-4e56-4ee5-a6dd-918bad056208" ViewId="Person_ListView" IsNewNode="True" />
+        </Items>
+      </Item>
+      <Item Id="Notes" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="@b62074ae-2d38-47cb-ab66-391a5252ab1b" ViewId="Note_ListView" IsNewNode="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="13.2.8.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>
