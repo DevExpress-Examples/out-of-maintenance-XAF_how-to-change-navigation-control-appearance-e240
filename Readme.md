@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [WebCustomizeNavBarController.cs](./CS/CustomizeNavigationControl.Module.Web/Controllers/WebCustomizeNavBarController.cs) (VB: [WebCustomizeNavBarController.vb](./VB/CustomizeNavigationControl.Module.Web/Controllers/WebCustomizeNavBarController.vb))
+* [WinCustomizeNavBarController.cs](./CS/CustomizeNavigationControl.Module.Win/Controllers/WinCustomizeNavBarController.cs) (VB: [WinCustomizeNavBarController.vb](./VB/CustomizeNavigationControl.Module.Win/Controllers/WinCustomizeNavBarController.vb))
+<!-- default file list end -->
 # How to Change Navigation Control Appearance
 
 
